@@ -7,7 +7,7 @@
   
   Fast forward to today: I’m a graduate of the Faculty of Computer Science and Artificial Intelligence at Helwan University 👩🏽‍💻, Cairo . My passion is focused on two main fields: <strong> Machine Learning </strong> and <strong>Backend Development</strong> using Spring Boot. I'm continuously honing my skills in both areas as I prepare to embark on my professional career. 
 
-  ![]([https://tenor.com/view/programming-gif-26165222](https://github.com/Sarah627/Sarah627/blob/main/programming.gif))
+  ![](https://github.com/Sarah627/Sarah627/blob/main/programming.gif)
   
   In addition to programming, I also have artistic hobbies like photography—I'll be sharing a link to my best shots soon! I used to draw in the     past, but I had to stop after experiencing chronic nerve inflammation in my right hand due to an incorrectly welded bone crack. Thankfully (Alhamdulillah), I'm much better now, and I’ve decided to go back to drawing. 
 
