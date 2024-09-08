@@ -3,10 +3,16 @@
 <p>
   I'm super enthusiastic about computer science and programming—my journey began when I was 14, writing my first lines of code in Visual Basic. It 
   truly took off in grade 11 during my time at STEM, where I earned my first full-stack development scholarship, learning Python and web development. 
+
   
-  Fast forward to today: I’m a graduate of the Faculty of Computer Science and Artificial Intelligence at Helwan University, Cairo. My passion is focused on two main fields: <strong>Machine Learning</strong> and <strong>Backend Development</strong>strong> using Spring Boot. I'm continuously honing my skills in both areas as I prepare to embark on my professional career. 
+  Fast forward to today: I’m a graduate of the Faculty of Computer Science and Artificial Intelligence at Helwan University 👩🏽‍💻, Cairo . My passion is focused on two main fields: <strong> Machine Learning </strong> and <strong>Backend Development</strong> using Spring Boot. I'm continuously honing my skills in both areas as I prepare to embark on my professional career. 
+
+  <div class="tenor-gif-embed" data-postid="26165222" data-share-method="host" data-aspect-ratio="1.35021" data-width="100%"><a href="https://tenor.com/view/programming-gif-26165222">Programming GIF</a>from <a href="https://tenor.com/search/programming-gifs">Programming GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  
   
   In addition to programming, I also have artistic hobbies like photography—I'll be sharing a link to my best shots soon! I used to draw in the     past, but I had to stop after experiencing chronic nerve inflammation in my right hand due to an incorrectly welded bone crack. Thankfully (Alhamdulillah), I'm much better now, and I’ve decided to go back to drawing. 
+
+  
   
   I love teaching and sharing knowledge, which led me to create the <a href="https://github.com/Sarah627/Java_miniatures"><strong>Java Miniatures</strong></a> repository. It's designed to help beginners navigate the core principles of Java and programming. Stay tuned—more repositories covering complex concepts and their practical implementations are on the way!</p>
   
