@@ -20,7 +20,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarah627" alt="sarah627" /></a> </p>
 
-- 🔭 I’m currently working on [Java miniatures](https://github.com/Sarah627/Java_miniatures)
+- 🔭 I’m currently working on [Java miniatures](https://github.com/Sarah627/Java_miniatures) and [Credit Card Fraud Detetction](https://github.com/Sarah627/Credit-Card-Fraud-Detection)
 
 - 🌱 I’m currently learning Computer Vision , Pytorch framework, Azure ML, MLflow , Springboot, System Design, Design patterns
 
