@@ -9,10 +9,6 @@
 
   ![](https://github.com/Sarah627/Sarah627/blob/main/programming.gif)
   
-  In addition to programming, I also have artistic hobbies like photography—I'll be sharing a link to my best shots soon! I used to draw in the     past, but I had to stop after experiencing chronic nerve inflammation in my right hand due to an incorrectly welded bone crack. Thankfully (Alhamdulillah), I'm much better now, and I’ve decided to go back to drawing. 
-
-  
-  
   I love teaching and sharing knowledge, which led me to create the <a href="https://github.com/Sarah627/Java_miniatures"><strong>Java Miniatures</strong></a> repository. It's designed to help beginners navigate the core principles of Java and programming. Stay tuned—more repositories covering complex concepts and their practical implementations are on the way!</p>
   
 
