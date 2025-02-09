@@ -7,7 +7,9 @@
   
   Fast forward to today: I’m a graduate of the Faculty of Computer Science and Artificial Intelligence at Helwan University 👩🏽‍💻, Cairo . My passion is focused on two main fields: <strong> Machine Learning </strong> and <strong>Backend Development</strong> using Spring Boot. I'm continuously honing my skills in both areas as I prepare to embark on my professional career. 
 
-  ![](https://github.com/Sarah627/Sarah627/blob/main/programming.gif)
+<div align="center">
+  <img src="https://github.com/Sarah627/Sarah627/blob/main/programming.gif" alt="horus eye">
+</div>
   
   I love teaching and sharing knowledge, which led me to create the <a href="https://github.com/Sarah627/Java_miniatures"><strong>Java Miniatures</strong></a> repository. It's designed to help beginners navigate the core principles of Java and programming. Stay tuned—more repositories covering complex concepts and their practical implementations are on the way!</p>
   
