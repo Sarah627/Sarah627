@@ -11,7 +11,7 @@
   <img src="https://github.com/Sarah627/Sarah627/blob/main/programming.gif" alt="horus eye">
 </div>
   
-  I love teaching and sharing knowledge, which led me to create the <a href="https://github.com/Sarah627/Java_miniatures"><strong>Java Miniatures</strong></a> repository. It's designed to help beginners navigate the core principles of Java and programming. Stay tuned—more repositories covering complex concepts and their practical implementations are on the way!</p>
+  I love sharing knowledge, which led me to create the <a href="https://github.com/Sarah627/Java_miniatures"><strong>Java Miniatures</strong></a> repository. It's designed to help beginners navigate the core principles of Java and programming. Stay tuned—more repositories covering complex concepts and their practical implementations are on the way!</p>
   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarah627&label=Profile%20views&color=0e75b6&style=flat" alt="sarah627" /> </p>
