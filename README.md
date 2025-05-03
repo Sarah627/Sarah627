@@ -2,7 +2,7 @@
 <h3 align="center"><strong>About Me</strong></h3>
 <p>
   -
-  I'm super enthusiastic about computer science and programming—my journey began when I was 14, writing my first lines of code in Visual Basic. It 
+  I'm enthusiastic about computer science and programming—my journey began when I was 14, writing my first lines of code in Visual Basic. It 
   truly took off in grade 11 during my time at STEM, where I earned my first full-stack development scholarship, learning Python and web development. 
 
   
