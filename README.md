@@ -69,4 +69,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarah627&show_icons=true&locale=en" alt="sarah627" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarah627&" alt="sarah627" /></p>
-.
+
