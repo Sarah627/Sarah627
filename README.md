@@ -8,7 +8,8 @@
   
   Fast forward to today: I’m a graduate of the Faculty of Computer Science and Artificial Intelligence at Helwan University 👩🏽‍💻, Cairo . My passion is focused on two main fields: <strong> Machine Learning </strong> and <strong>Backend Development</strong> using Spring Boot. I'm continuously honing my skills in both areas as I prepare to embark on my professional career. 
 
-  small update🤏🏻 Now I'm working as Coding Instructor for Kids (grades 1- 12) in iSchool 💻
+  small update🤏🏻 Now I'm working as Associate Software Engineer in Fawry (FinTech Industry). 
+  (last job was Coding Instructor for Kids (grades 1- 12) in iSchool 💻)
 
 <div align="center">
   <img src="https://github.com/Sarah627/Sarah627/blob/main/programming.gif" alt="horus eye">
