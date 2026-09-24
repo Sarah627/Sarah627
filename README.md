@@ -25,7 +25,7 @@
 - 👩🏽‍🎓 you can check my graduation project from here [Horus Eye](https://github.com/Sarah627/Horus_Eye_FCIH_Graduation_Project)
 - 🔭 I’m currently working on [Java miniatures](https://github.com/Sarah627/Java_miniatures) & [Student Portal](https://github.com/Sarah627/Student_Portal).
 
-- 🌱 I’m currently learning Data Analysis, Machine Learning Algorithms, Springboot, Backend Development, System Design.
+- 🌱 I’m currently learning Springboot🍃, Backend Development, AI agents 🤖.
 - 👯 I’m looking to collaborate on **open source deep learning project or a backend project**
 
 - 💬 Ask me about Java, git, OOP, DSA, Python, Pandas, Scipy, Flask, Roboflow, Tensorflow, Keras, Numpy, Scikit-learn.
